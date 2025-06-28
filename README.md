@@ -35,7 +35,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YourUsername/Music-Player.git
+git clone https://github.com/NentaShirisha/Music-Player.git
 Navigate to the project directory:
 
 Bash
